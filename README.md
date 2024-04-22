@@ -4,7 +4,7 @@
 
 ### Interfaz de la app
 
-![alt text](image-2.png)
+![alt text](![image](https://github.com/EduardoPacheco2003/Reto02-Comprension-Views-Button-Inputs-e-Imagenes/assets/100945554/db80659a-d036-4183-b987-21963ba772e1)
 
 ### Codigo de Kotlin
 
